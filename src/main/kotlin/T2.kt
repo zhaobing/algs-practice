@@ -1,3 +1,5 @@
+import stdlib.StdOut
+
 object T2 {
     @JvmStatic
     fun main(args: Array<String>) {
